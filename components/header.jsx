@@ -28,6 +28,7 @@ export function Header() {
                                 {item.linkText}
                             </Link>
                         </li>
+                    <h2>RAHUL DEY</h2>
                     ))}
                 </ul>
             )}
